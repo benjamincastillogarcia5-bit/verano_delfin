@@ -40,4 +40,3 @@ def preprocesar_rndc_grupo1(ruta_archivo):
 
 preprocesar_rndc_grupo1("Tiempos_Logísticos_de_cada_viaje_de_vehículos_de_carga_20260615.csv")
 
-explicame este codigo linea a linea y dime si algo está mal
