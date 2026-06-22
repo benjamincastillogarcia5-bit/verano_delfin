@@ -144,3 +144,6 @@ yarn-error.log*
 *.db
 *.dump
 # *.sql  <-- Descomenta si generas respaldos locales de PostgreSQL y no quieres subirlos
+
+
+data/*.csv
